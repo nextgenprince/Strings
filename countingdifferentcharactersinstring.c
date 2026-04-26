@@ -30,11 +30,11 @@ int main() {
  }
     words =space_count+1;
 
-    printf("%d\n", vowels);
-    printf("%d\n", digits);
-    printf("%d\n", space_count);
-    printf("%d\n", consonants);
-    printf("%d\n", words);
+    printf("Vowel count is:%d\n", vowels);
+    printf("Digits count is:%d\n", digits);
+    printf("Space count is:%d\n", space_count);
+    printf("Consonants count is:%d\n", consonants);
+    printf("Words count is:%d", words);
 
     return 0;
 }
