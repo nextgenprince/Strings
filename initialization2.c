@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    char arr[] ="HELLO MY FUTURE WIFE";
+    char arr[] ="HELLO WORLD";
     
    /* for(int i=0; i<20; i++)
     {

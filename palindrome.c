@@ -3,7 +3,7 @@
 
 int main() {
 
-    char a[] = "PRINCE";
+    char a[] = "MADAM";
     int size = strlen(a);
     int temp = 0;
     for(int i=0,j = size-1; i <= j; i++,j--)
